@@ -1,3 +1,6 @@
+Flask=-2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
 pyrogram>=2.0.30 
  tgcrypto 
  pymongo[srv]==3.12.3 
@@ -9,8 +12,7 @@ pyrogram>=2.0.30
  git+https://github.com/Joelkb/cinemagoer 
  shortzy 
  datetime 
- pytz 
- aiohttp
+ pytz
 
 #---master---# 
  #Telethroid==0.0.10 
